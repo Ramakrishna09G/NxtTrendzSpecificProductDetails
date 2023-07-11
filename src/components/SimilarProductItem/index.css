@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.similar-product-item {
+  margin: 10px;
+}
+.similar-product-item-img {
+  max-height: 220px;
+  max-width: 220px;
+  border-radius: 10px;
+}
+.similar-product-title {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+.similar-product-brand {
+}
+.similar-product-price {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+.similar-product-price-and-rating {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
